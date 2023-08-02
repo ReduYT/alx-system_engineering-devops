@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cd "$OLDPWD"
+=======
+cd -
+>>>>>>> 7b11202593b4ca28740293f1a0cf8cd971a86e4a
